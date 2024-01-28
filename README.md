@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferhat GÖZÜPEK</h1>
 <h3 align="center">Junior developer in Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseditiosoft.com%2F&psig=AOvVaw0nSR0bS0RqeLWDPy5knmq_&ust=1706538686588000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj0ip6mgIQDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/4b/92/e84b92bd78d48197241c04c30e0159b5.gif">
 
 - 🌱 I’m currently learning **React**
 - I work on software every day. I am sharing here the examples I made and loved during the day so that you can see my progress.
